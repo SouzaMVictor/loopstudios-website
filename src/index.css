@@ -55,9 +55,6 @@
 .hamburger-bottom {
   @apply translate-y-[14px];
 }
-.open {
-  @apply rotate-90;
-}
 .open .hamburger-top {
   @apply rotate-45 translate-y-[6px] translate-x-[6px];
 }
